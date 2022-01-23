@@ -2,17 +2,11 @@
   <div class="header">
     <div class="flex space-x-8">
       <div>
-        <a href="/">Nuxt3</a>
+        <NuxtLink to="/">Nuxt 3</NuxtLink>
       </div>
       <div class="flex">
-        <a href="articles">articles</a>
+        <NuxtLink to="/articles">articles</NuxtLink>
       </div>
-      <!-- <div>
-        <a href="/">newsletter</a>
-      </div>
-      <div>
-        <a href="/">contact me</a>
-      </div> -->
     </div>
   </div>
 </template>
