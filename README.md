@@ -1,29 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3
+Project for Nuxt3 experimentation
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
-
-## Setup
-
-Make sure to install the dependencies
-
-```bash
-yarn install
+## Commands
+```
+npm run dev
+npm run build
 ```
 
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+## Supports
+* [x] Basic
+* [ ] Tailwindcss
