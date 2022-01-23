@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100 p-4">
+  <div>
     Welcome Nuxt3.
   </div>
 </template>
